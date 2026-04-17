@@ -2,11 +2,12 @@
 
 Extract structured data from [jobdanmark.dk](https://jobdanmark.dk) — structured job listings from jobdanmark.dk — Denmark's job portal with 14,500+ listings, contact info, and apply URLs.
 
-**[Jobdanmark Scraper on Apify →](https://apify.com/blackfalcondata/jobdanmark-scraper)**
+**[Jobdanmark Scraper - Danish Job Board on Apify →](https://apify.com/blackfalcondata/jobdanmark-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [jobdanmark.dk](https://jobdanmark.dk) — structur
 ---
 
 ## Use cases
+
 
 
 
@@ -79,6 +81,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
